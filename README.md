@@ -234,6 +234,16 @@ Potential applications:
 
 ---
 
+## Dashboard UI Design
+
+The dashboard was designed using Figma before implementation.
+
+![Dashboard Overview](assets/cough_dashboard1.png)
+
+![Detection Section](assets/cough_dashboard2.png)
+
+![VTI Section](assets/cough_dashboard3.png)
+
 ## Disclaimer
 
 This tool is a hackathon prototype and is NOT a medical device. The outputs are estimates intended for research and
